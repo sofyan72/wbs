@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <title>User Home</title>
         <link
             href="https://fonts.googleapis.com/css?family=Poppins&display=swap"
             rel="stylesheet"
@@ -9,6 +10,7 @@
             href="https://fonts.googleapis.com/css?family=Inria+Sans&display=swap"
             rel="stylesheet"
         />
+        <link rel="stylesheet" href="css/user/dashboard.css">
     </head>
     <body>
         <div class="v369_1583">
@@ -25,8 +27,10 @@
                 <div class="name"></div>
                 <span class="v369_1600">Beranda</span>
                 <span class="v369_1601">Informasi</span>
+                <li><a href="informasi"></a></li>
                 <div class="v369_1602"></div>
-                <span class="v369_1603">Pantau Pengaduan</span>
+                <span class="v369_1603"><a href="login">Pantau Pengaduan</a></span>
+               
             </div>
             <div class="v369_1604"></div>
             <span class="v369_1605">Definisi WhistleBlowing System</span>
@@ -37,7 +41,8 @@
                 pidana korupsi yang dilakukan di dalam organisasi tempatnya
                 bekerja.
             </span>
-            <span class="v369_1607">Tata cara pengaduan</span>
+            <article>
+            <span class="v369_1607">Tata cara pengaduan</span> 
             <span class="v369_1608"
                 >Tata Cara Membuat Pengaduan Melalui WBS</span
             >
@@ -80,6 +85,7 @@
                 >Selesai. Pengaduan diproses. Pelapor dapat memantau progress
                 tindak lanjut pengaduan dengan akun yang telah diberikan</span
             >
+            
             <div class="v369_1633"></div>
             <div class="v369_1634"></div>
             <div class="v369_1635"></div>
@@ -95,22 +101,7 @@
             ><span class="v369_1649"
                 >Statistik Pengaduan Pada WBS Pemerintah Kota Malang</span
             ><span class="v369_1650">STATISTIK PENGADUAN</span>
-            <div class="v369_1651"></div>
-            <div class="v369_1652"></div>
-            <div class="v369_1653"></div>
-            <div class="v369_1654"></div>
-            <div class="v369_1655"></div>
-            <div class="v369_1656"></div>
-            <div class="v369_1657"></div>
-            <div class="v369_1658"></div>
-            <div class="v369_1659"></div>
-            <div class="v369_1660"></div>
-            <div class="v369_1661"></div>
-            <div class="v369_1662"></div>
-            <div class="v369_1663"></div>
-            <div class="name"></div>
-            <div class="name"></div>
-            <div class="name"></div>
+            
         </div>
     </body>
 </html>

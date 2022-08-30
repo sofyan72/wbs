@@ -3,10 +3,33 @@
 
 <head>
     <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/user/login.css">
 </head>
 
 <body>
-    <div class="v369_2564"><span class="v369_2565">Pantau PENGADUAN</span>
+
+<h1>Pantau PENGADUAN</h1>
+<p>Kami sangat menghargai informasi yang Anda laporkan. Fokus kami
+    kepada materi informasi yang Anda Laporkan. Untuk memantau progress tindak lanjut atas
+    pengaduan Anda, silahkan memasukkan username dan kata sandi Anda pada form login dibawah ini. Jika Anda
+    belum memiliki Akun,
+    silahkan Buat Akun dan Tulis Pengaduan.</p>
+<div class="form">
+    <h2>LOGIN</h2>
+    <form action="">
+        <label for="username">username</label>
+        <input type="text" name="username" id="">
+        <label for="password">password</label>
+        <input type="password" name="password" id="">
+        <label for="kodekeamanan">kode keamanan</label>
+        <label for="masukkankode">Masukkan kode keamanan diatas:</label>
+        <input type="text" name="masukkankode" id="">
+
+    </form>
+
+</div>
+
+    <div class="v369_2564"><span class="v369_2565">Pantau PENGADUAN1</span>
         <div class="name"></div><span class="v369_2567">Kami sangat menghargai informasi yang Anda laporkan. Fokus kami
             kepada materi informasi yang Anda Laporkan. Untuk memantau progress tindak lanjut atas
             pengaduan Anda, silahkan memasukkan username dan kata sandi Anda pada form login dibawah ini. Jika Anda

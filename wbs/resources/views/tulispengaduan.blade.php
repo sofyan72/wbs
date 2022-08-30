@@ -4,6 +4,7 @@
 <head>
     <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Inria+Sans&display=swap" rel="stylesheet" />
+     
 </head>
 
 <body>
@@ -56,8 +57,12 @@
                 (Nomor Induk Kependudukan)</span><span class="v369_1940">NIK </span><span class="v369_1941">Jabatan
                 Pihak yang terlapor</span><span class="v369_1942">Perangkat Daerah yang terlapor</span><span
                 class="v369_1943">Jabatan</span><span class="v369_1944">Perangkat Daerah</span><span
-                class="v369_1945">Ketik Ulang Password</span><span class="v369_1946">Konfirmasi Password</span><span
-                class="v369_1947">Konfirmasi Password</span><span class="v369_1948">Alamat E-mail</span><span
+                class="v369_1945">Ketik Ulang Password</span>
+                <span class="v369_1946">Konfirmasi Password</span>
+                <span
+                class="v369_1947">Konfirmasi Password</span>
+                <span class="v369_1948">Alamat E-mail</span>
+                <span
                 class="v369_1949">E-mail</span><span class="v369_1950">Tempat kejadian</span><span
                 class="v369_1951">Tempat </span><span class="v369_1952">Tanggal kejadian</span><span
                 class="v369_1953">Masukkan kode keamanan (6 Karakter)</span><span class="v369_1954">Tanggal </span><span

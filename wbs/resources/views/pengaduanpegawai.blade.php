@@ -4,8 +4,9 @@
 <head>
     <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Inria+Sans&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/user/pengaduanpegawai.css">
 </head>
-
+ 
 <body>
     <div class="v369_2163"><span class="v369_2164">Tulis PENGADUAN</span><span class="v369_2165">Apabila Anda mendapati
             adanya pelanggaran di lingkungan Pemerintah Kota Malang, laporkan pada Inspektorat Kota Malang. Laporan Anda
