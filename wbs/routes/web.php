@@ -14,21 +14,34 @@ use App\Http\Controllers\User\DashboardController;
 |
 */
 
+// Route khusus user
 
 Route::get('/', function () {
-    return view('dashboard');    
+    return view('user.dashboard');    
     
 });
 Route::get('/lapor', function () {
-    return view('tulispengaduan');    
+    return view('user.tulispengaduan');    
     
 });
 Route::get('/login', function () {
-    return view('login');    
+    return view('user.login');    
+    
+});
+Route::get('/resetpassword', function () {
+    return view('user.resetpassword');    
+    
+});
+Route::get('/notifresetpassword', function () {
+    return view('user.notifresetpassword');    
+    
+});
+Route::get('/progresspengaduan', function () {
+    return view('user.progresspengaduan');    
     
 });
 Route::get('/laporpegawai', function () {
-    return view('pengaduanpegawai');    
+    return view('user.pengaduanpegawai');    
     
 });
 
