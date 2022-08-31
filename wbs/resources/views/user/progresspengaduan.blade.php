@@ -32,7 +32,7 @@
         </div>
         <div class="v369_2693">
             <div class="v369_2694"></div>
-        </div><span class="v369_2695">Beranda</span><span class="v369_2696">Ajukan Pengaduan</span>
+        </div><span class="v369_2695"><a href="/">Beranda</span><span class="v369_2696">Ajukan Pengaduan</span>
         <div class="name"></div>
     </div>
 </body>
