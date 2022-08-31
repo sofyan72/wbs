@@ -51,7 +51,7 @@
                 </div>
             </div>
             <div class="v369_2592"></div>
-            <div class="v369_2593"><span class="v369_2594">LOGIN</span>
+            <div class="v369_2593"><span class="v369_2594"><a href="progresspengaduan">LOGIN</span>
                 <div class="v369_2595">
                     <div class="name"></div>
                     <div class="v369_2600"></div>
@@ -67,7 +67,7 @@
         </div>
         <div class="v369_2610">
             <div class="v369_2611">
-                <div class="v369_2612"><span class="v369_2613">LUPA PASSWORD</span></div>
+                <div class="v369_2612"><span class="v369_2613"><a href="resetpassword">LUPA PASSWORD</span></div>
                 <div class="v369_2614">
                     <div class="v369_2615"></div>
                     <div class="v369_2616"></div>
