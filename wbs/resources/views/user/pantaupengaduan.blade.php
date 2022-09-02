@@ -85,7 +85,7 @@
 								>
 									<a
 										class="dropdown-item"
-										href="edit-profile.html"
+										href="editprofil"
 									>
 										<img
 											src="assets/img/icons/person.svg"
@@ -134,7 +134,7 @@
 									<input
 										type="text"
 										class="form-control fs-sm form-control-lg bg-white border-0 text-secondary"
-										placeholder="Cari pengajuan anda disini"
+										placeholder="Cari nama terlapor"
 										aria-label="Cari pengajuan anda disini"
 										aria-describedby="formInput"
 									/>

@@ -4,7 +4,7 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-		<title>Document</title>
+		<title>editprofil</title>
 		<link href="assets/css/app.css" rel="stylesheet" />
 		<!-- Fonts -->
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -85,7 +85,7 @@
 								>
 									<a
 										class="dropdown-item"
-										href="edit-profile.html"
+										href="editprofil"
 									>
 										<img
 											src="assets/img/icons/person.svg"
