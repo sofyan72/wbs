@@ -696,7 +696,7 @@
 						<div class="text-center">
 							<a
 								class="btn btn-outline-primary py-2 px-5 d-inline-block"
-								href="#!"
+								href="pengaduanpegawai"
 								role="button"
 								>Ok</a
 							>
