@@ -85,7 +85,7 @@
 								>
 									<a
 										class="dropdown-item"
-										href="edit-profile.html"
+										href="edit-profil.html"
 									>
 										<img
 											src="assets/img/icons/person.svg"
