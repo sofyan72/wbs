@@ -4,7 +4,7 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-		<title>Document</title>
+		<title>Login</title>
 		<link href="assets/css/app.css" rel="stylesheet" />
 		<!-- Fonts -->
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -47,11 +47,11 @@
 						<a
 							class="nav-link me-3 active"
 							aria-current="page"
-							href="index.html"
+							href="home"
 							>Beranda</a
 						>
 						<a class="nav-link me-3" href="#!">Informasi</a>
-						<a class="nav-link" href="#!">Pantau Pengaduan</a>
+						<a class="nav-link" href="login">Pantau Pengaduan</a>
 					</div>
 				</div>
 			</div>
@@ -141,7 +141,7 @@
 				<div class="d-flex justify-content-center gap-3 flex-column">
 					<a
 						class="btn btn-light bg-orange rounded-4 text-white border-0 py-3 px-5 fw-semibold"
-						href="pantau-pengaduan.html"
+						href="pantaupengaduan"
 						role="button"
 						>LOGIN
 						<img
@@ -151,7 +151,7 @@
 					/></a>
 					<a
 						class="btn btn-light bg-orange rounded-4 text-white border-0 py-3 px-5 fw-semibold"
-						href="lupa-password.html"
+						href="lupapassword"
 						role="button"
 						>LUPA PASSWORD
 						<img

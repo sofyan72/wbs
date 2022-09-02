@@ -15,33 +15,40 @@ use App\Http\Controllers\User\DashboardController;
 */
 
 // Route khusus user
-
 Route::get('/', function () {
-    return view('user.dashboard');    
+    return view('user.home');    
     
 });
-Route::get('/lapor', function () {
-    return view('user.tulispengaduan');    
+Route::get('/home', function () {
+    return view('user.home');    
+    
+});
+Route::get('/pengaduanmasyarakat', function () {
+    return view('user.pengaduanmasyarakat');    
+    
+});
+Route::get('/pengaduanpegawai', function () {
+    return view('user.pengaduanpegawai');    
     
 });
 Route::get('/login', function () {
     return view('user.login');    
     
 });
-Route::get('/resetpassword', function () {
-    return view('user.resetpassword');    
+Route::get('/lupapassword', function () {
+    return view('user.lupapassword');    
     
 });
-Route::get('/notifresetpassword', function () {
-    return view('user.notifresetpassword');    
+Route::get('/pantaupengaduan', function () {
+    return view('user.pantaupengaduan');    
     
 });
 Route::get('/progresspengaduan', function () {
     return view('user.progresspengaduan');    
     
 });
-Route::get('/laporpegawai', function () {
-    return view('user.pengaduanpegawai');    
+Route::get('/ajukanpengaduan', function () {
+    return view('user.ajukanpengaduan');    
     
 });
 

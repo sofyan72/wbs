@@ -51,12 +51,12 @@
 							<a
 								class="nav-link me-3 active"
 								aria-current="page"
-								href="index.html"
+								href="pantaupengaduan"
 								>Beranda</a
 							>
 							<a
 								class="nav-link me-3"
-								href="ajukan-pengaduan.html"
+								href="ajukanpengaduan"
 								>Ajukan Pengaduan</a
 							>
 							<li class="nav-item dropdown">

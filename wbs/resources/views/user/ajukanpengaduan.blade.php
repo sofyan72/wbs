@@ -4,7 +4,7 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-		<title>Document</title>
+		<title>Ajukan Pengaduan</title>
 		<link href="assets/css/app.css" rel="stylesheet" />
 		<!-- Fonts -->
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -51,12 +51,12 @@
 							<a
 								class="nav-link me-3 active"
 								aria-current="page"
-								href="index.html"
+								href="pantaupengaduan"
 								>Beranda</a
 							>
 							<a
 								class="nav-link me-3"
-								href="ajukan-pengaduan.html"
+								href="ajukanpengaduan"
 								>Ajukan Pengaduan</a
 							>
 							<li class="nav-item dropdown">
@@ -410,7 +410,7 @@
 						<div class="text-center">
 							<a
 								class="btn btn-outline-primary py-2 px-5 d-inline-block"
-								href="#!"
+								href="ajukanpengaduan"
 								role="button"
 								>Ok</a
 							>

@@ -51,11 +51,11 @@
 							<a
 								class="nav-link me-3 active"
 								aria-current="page"
-								href="index.html"
+								href="home"
 								>Beranda</a
 							>
 							<a class="nav-link me-3" href="#!">Informasi</a>
-							<a class="nav-link" href="#!">Pantau Pengaduan</a>
+							<a class="nav-link" href="login">Pantau Pengaduan</a>
 						</div>
 					</div>
 				</div>
