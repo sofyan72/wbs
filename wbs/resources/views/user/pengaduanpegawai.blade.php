@@ -103,7 +103,7 @@
 									silahkan
 									<span
 										><a
-											href="login.blade.php"
+											href="login"
 											class="text-black fw-semibold"
 											>Login Disini</a
 										></span
