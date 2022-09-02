@@ -51,9 +51,17 @@ Route::get('/ajukanpengaduan', function () {
     return view('user.ajukanpengaduan');    
     
 });
+Route::get('/editprofil', function () {
+    return view('user.editprofil');    
+    
+});
 
 Route::get('/editprofil', function () {
     return view('user.editprofil');    
+    
+});
+Route::get('/lihatpengaduan', function () {
+    return view('user.lihatpengaduan');    
     
 });
 

@@ -85,7 +85,11 @@
 								>
 									<a
 										class="dropdown-item"
+<<<<<<< HEAD
 										href="edit-profil.html"
+=======
+										href="editprofil"
+>>>>>>> 091ed4d09340eca86215423931e87825d380b252
 									>
 										<img
 											src="assets/img/icons/person.svg"
@@ -134,7 +138,7 @@
 									<input
 										type="text"
 										class="form-control fs-sm form-control-lg bg-white border-0 text-secondary"
-										placeholder="Cari pengajuan anda disini"
+										placeholder="Cari nama terlapor"
 										aria-label="Cari pengajuan anda disini"
 										aria-describedby="formInput"
 									/>
@@ -206,7 +210,7 @@
 												>
 													<a
 														class="dropdown-item"
-														href="lihat-pengaduan.html"
+														href="lihatpengaduan"
 													>
 														View
 													</a>
@@ -259,7 +263,7 @@
 												>
 													<a
 														class="dropdown-item"
-														href="lihat-pengaduan.html"
+														href="lihatpengaduan"
 													>
 														View
 													</a>
@@ -312,7 +316,7 @@
 												>
 													<a
 														class="dropdown-item"
-														href="lihat-pengaduan.html"
+														href="lihatpengaduan"
 													>
 														View
 													</a>
