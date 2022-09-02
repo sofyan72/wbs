@@ -60,6 +60,10 @@ Route::get('/editprofil', function () {
     return view('user.editprofil');    
     
 });
+Route::get('/lihatpengaduan', function () {
+    return view('user.lihatpengaduan');    
+    
+});
 
 // Route::prefix('user.dashboard')->group(function () {
 // Route::get('/', [DashboardController::class, 'index'])->name('user.dashboard');

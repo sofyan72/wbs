@@ -206,7 +206,7 @@
 												>
 													<a
 														class="dropdown-item"
-														href="lihat-pengaduan.html"
+														href="lihatpengaduan"
 													>
 														View
 													</a>
@@ -259,7 +259,7 @@
 												>
 													<a
 														class="dropdown-item"
-														href="lihat-pengaduan.html"
+														href="lihatpengaduan"
 													>
 														View
 													</a>
@@ -312,7 +312,7 @@
 												>
 													<a
 														class="dropdown-item"
-														href="lihat-pengaduan.html"
+														href="lihatpengaduan"
 													>
 														View
 													</a>

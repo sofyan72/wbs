@@ -51,12 +51,12 @@
 							<a
 								class="nav-link me-3 active"
 								aria-current="page"
-								href="index.html"
+								href="home"
 								>Beranda</a
 							>
 							<a
 								class="nav-link me-3"
-								href="ajukan-pengaduan.html"
+								href="ajukanpengaduan"
 								>Ajukan Pengaduan</a
 							>
 							<li class="nav-item dropdown">
@@ -95,7 +95,7 @@
 										Edit Profil
 									</a>
 									<div class="dropdown-divider"></div>
-									<a class="dropdown-item" href="index.html">
+									<a class="dropdown-item" href="home">
 										<img
 											src="assets/img/icons/logout.svg"
 											alt="Send"
