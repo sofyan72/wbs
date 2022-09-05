@@ -86,9 +86,8 @@
 									<a
 										class="dropdown-item"
 
-										href="edit-profil.html"
-
 										href="editprofil"
+
 									>
 										<img
 											src="assets/img/icons/person.svg"
