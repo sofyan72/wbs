@@ -698,7 +698,7 @@
 								class="btn btn-outline-primary py-2 px-5 d-inline-block"
 								href="pengaduanpegawai"
 								role="button"
-								>Ok</a
+								>OK</a
 							>
 						</div>
 					</div>

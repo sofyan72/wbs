@@ -85,11 +85,10 @@
 								>
 									<a
 										class="dropdown-item"
-<<<<<<< HEAD
+
 										href="edit-profil.html"
-=======
+
 										href="editprofil"
->>>>>>> 091ed4d09340eca86215423931e87825d380b252
 									>
 										<img
 											src="assets/img/icons/person.svg"
