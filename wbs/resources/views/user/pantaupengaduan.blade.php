@@ -216,8 +216,10 @@
 														class="dropdown-divider"
 													></div>
 													<a
+														type="button"
+														data-bs-toggle="modal"
+														data-bs-target="#modalPengaduan"
 														class="dropdown-item"
-														href="#!"
 													>
 														Batal
 													</a>
@@ -347,6 +349,66 @@
 				</div>
 			</div>
 		</footer>
+		<div
+			class="modal fade"
+			id="modalPengaduan"
+			tabindex="-1"
+			aria-labelledby="exampleModalLabel"
+			aria-hidden="true"
+		>
+			<div
+				class="modal-dialog modal-dialog-centered"
+				style="max-width: 800px"
+			>
+				<div
+					class="modal-content bg-blue-secondary-95 custom-border border-white"
+				>
+					<div class="modal-header">
+						<img
+							src="assets/img/logo-diskominfo.svg"
+							alt=""
+							class="d-block ms-auto mw-100"
+						/>
+						<button
+							type="button"
+							class="btn-close shadow-none bg-img-none p-0 pe-4"
+							data-bs-dismiss="modal"
+							aria-label="Close"
+						>
+							<img
+								class="mw-100"
+								src="/assets/img/icons/close.svg"
+								alt=""
+								title=""
+							/>
+						</button>
+					</div>
+					<div class="modal-body py-4 px-5">
+						<p class="mb-4 text-white text-center">
+							Apakah anda yakin ingin membatalkan pengaduan anda ?
+						</p>
+						<div class="d-flex justify-content-center">
+							<div
+								class="col-md-6 d-flex justify-content-center flex-column gap-3"
+							>
+								<a
+									class="btn btn-primary bg-orange-light border-0 text-black py-3"
+									href="pengaduanmasyarakat"
+									role="button"
+									>Ya</a
+								>
+								<a
+									class="btn btn-primary bg-orange-light border-0 text-black py-3"
+									href="pengaduanpegawai"
+									role="button"
+									>Tidak</a
+								>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 		<script src="assets/js/app.js" type="text/javascript"></script>
 		<script>
 			$(".table-responsive").on("show.bs.dropdown", function () {
