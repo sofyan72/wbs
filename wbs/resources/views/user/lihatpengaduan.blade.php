@@ -51,7 +51,7 @@
 							<a
 								class="nav-link me-3 active"
 								aria-current="page"
-								href="home"
+								href="pantaupengaduan"
 								>Beranda</a
 							>
 							<a
