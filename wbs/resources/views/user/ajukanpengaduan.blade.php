@@ -85,7 +85,7 @@
 								>
 									<a
 										class="dropdown-item"
-										href="edit-profile.html"
+										href="editprofil"
 									>
 										<img
 											src="assets/img/icons/person.svg"
@@ -95,7 +95,7 @@
 										Edit Profil
 									</a>
 									<div class="dropdown-divider"></div>
-									<a class="dropdown-item" href="index.html">
+									<a class="dropdown-item" href="home">
 										<img
 											src="assets/img/icons/logout.svg"
 											alt="Send"
@@ -339,7 +339,7 @@
 							<div class="col-md-6 d-flex justify-content-center">
 								<a
 									class="btn btn-light bg-orange rounded-4 text-white border-0 py-3 px-5 fw-semibold"
-									href="pengaduan-sebagai-masyarakat.html"
+									href="pengaduanmasyarakat"
 									role="button"
 									data-bs-toggle="modal"
 									data-bs-target="#modalSubmitPengaduan"
