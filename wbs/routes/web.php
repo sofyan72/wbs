@@ -14,7 +14,7 @@ use App\Http\Controllers\User\DashboardController;
 |
 */
 
-// Route khusus user
+// Route khusus User
 Route::get('/', function () {
     return view('user.home');    
     
@@ -64,6 +64,15 @@ Route::get('/lihatpengaduan', function () {
     return view('user.lihatpengaduan');    
     
 });
+
+// Route khusus Admin
+
+Route::get('/admin', function () {
+    return view('admin.login');    
+    
+});
+
+
 
 // Route::prefix('user.dashboard')->group(function () {
 // Route::get('/', [DashboardController::class, 'index'])->name('user.dashboard');
