@@ -82,6 +82,7 @@
 							<div class="bg-gradient-hexagon"></div>
 							<a
 								class="hexagon text-decoration-none"
+								
 								style="
 									background-image: url(assets/img/shapes/bg-buat-laporan.svg);
 								"
