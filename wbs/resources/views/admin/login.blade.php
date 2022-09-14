@@ -1,54 +1,68 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<head>
-    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet" />
-</head>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="login.css" />
 
-<body>
-    <div class="v121_434">
-        <div class="name"></div>
-        <div class="v121_436"></div>
-        <div class="v128_643"></div>
-        <div class="v128_644"></div>
-        <div class="v286_1353"></div>
-        <div class="v121_437"></div><span class="v121_438">Login </span>
-        <div class="v121_440"></div>
-        <div class="v133_1063"></div>
-        <div class="v121_441"></div><span class="v121_442">Masukkan ID</span><span class="v133_1064">Reset PASSWORD_BCRYPT
-            
-        </span><span class="v121_443">Masukkan Password</span>
-        <div class="v128_645"></div><span class="v128_646">Login</span>
-        <div class="v133_1065">
-            <div class="v133_1066"></div>
-            <div class="v133_1067"></div>
-        </div>
-        <div class="v133_1068">
-            <div class="name"></div>
-        </div>
-        <div class="v133_1074">
-            <div class="v133_1075"></div>
-            <div class="v133_1076"></div>
-            <div class="v133_1077">
-                <div class="v133_1078"></div>
-                <div class="v133_1079"></div>
+    <title>Login admin</title>
+  </head>
+  <body>
+   
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-md-offset-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading"> <strong class="">Login</strong>
+      
+                    </div>
+                    <div class="panel-body">
+                        <form class="form-horizontal" role="form">
+                            <div class="form-group">
+                                <label for="inputEmail3" class="col-sm-3 control-label">Email</label>
+                                <div class="col-sm-9">
+                                    <input class="form-control" id="inputEmail3" placeholder="Email" required="" type="email">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="inputPassword3" class="col-sm-3 control-label">Password</label>
+                                <div class="col-sm-9">
+                                    <input class="form-control" id="inputPassword3" placeholder="Password" required="" type="password">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-sm-offset-3 col-sm-9">
+                                    <div class="checkbox">
+                                        <label class="">
+                                            <input class="" type="checkbox">Remember me</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group last">
+                                <div class="col-sm-offset-3 col-sm-9">
+                                    <button type="submit" class="btn btn-success btn-sm">Sign in</button>
+                                    <button type="reset" class="btn btn-default btn-sm">Reset</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="panel-footer">Not Registered? <a href="#" class="">Register here</a>
+                    </div>
+                </div>
             </div>
         </div>
-        <div class="name"></div>
-        <div class="name"></div>
-        <div class="v133_1082"></div>
-        <div class="v133_1083"></div><span class="v133_1084">Lupa Password</span><span class="v133_1085">Daftar
-            Akun</span><span class="v285_1348">WhistleBlowing System
-            Pemerintah Kota Malang</span>
-        <div class="v285_1341"></div>
-        <div class="v285_1342">
-            <div class="v285_1343"></div>
-            <div class="v285_1344"></div>
-        </div>
-        <div class="v285_1345"></div>
-        <div class="v285_1346"></div>
-        <div class="v285_1347"></div>
-    </div>
-</body>
+      </div>
+      
+          <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+          <!-- Include all compiled plugins (below), or include individual files as needed -->
+          <script src="js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
-</html> <br /><br />
+   
+  </body>
+</html>

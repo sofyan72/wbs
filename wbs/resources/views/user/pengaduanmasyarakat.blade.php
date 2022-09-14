@@ -702,7 +702,7 @@
 							<p class="text-white text-center">
 								Pengaduan anda sedang diajukan, silahkan pantau
 								perkembangan pengaduan anda di bagian pantau
-								pengaduan
+								pengaduan   
 							</p>
 						</div>
 						<div class="text-center">
