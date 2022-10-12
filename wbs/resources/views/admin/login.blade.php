@@ -12,7 +12,8 @@
     <title>Login admin</title>
   </head>
   <body>
-   
+	<div class="navbar navbar-expand-lg py-4" style="background-image: url('assets/img/shapes/bg.svg'); width: 1920px; height: 1080px;">
+		
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-md-offset-4">
@@ -56,6 +57,7 @@
             </div>
         </div>
       </div>
+	</div>
       
           <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
           <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
