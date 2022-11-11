@@ -76,6 +76,14 @@ Route::get('/pengaduan', function () {
     return view('admin.pengaduan');    
     
 });
+Route::get('/tercatat', function () {
+    return view('admin.tercatat');    
+    
+});
+Route::get('/penelahaan', function () {
+    return view('admin.penelahaan');    
+    
+});
 
 
 // Route::prefix('user.dashboard')->group(function () {

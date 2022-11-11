@@ -93,12 +93,12 @@
 								>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link fw-bold" href="tercatat.html"
+								<a class="nav-link fw-bold active" href="tercatat.html"
 									>Tercatat</a
 								>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link fw-bold active" href="penelahaan.html"
+								<a class="nav-link fw-bold" href="penelahaan.html"
 									>Penelahaan</a
 								>
 							</li>
@@ -129,13 +129,25 @@
 										Tgl Agenda
 									</th>
 									<th class="fw-semibold" scope="col">
+										Perihal
+									</th>
+									<th class="fw-semibold" scope="col">
+										Nama Pelapor
+									</th>
+									<th class="fw-semibold" scope="col">
 										Nama Terlapor
 									</th>
 									<th class="fw-semibold" scope="col">
-										Pokok Permasalahan
+										Jabatan Terlapor
 									</th>
 									<th class="fw-semibold" scope="col">
-										Analisis berdasarkan ketentuan peraturan								
+										Perangkat Daerah
+									</th>
+									<th class="fw-semibold" scope="col">
+										Tanggal Kejadian
+									</th>
+									<th class="fw-semibold" scope="col">
+										Detail kejadian
 									</th>
 									<th class="fw-semibold" scope="col">
 										Action
@@ -146,8 +158,13 @@
 								<tr>
 									<td>001</td>
 									<td>30 Juni 2022</td>
+									<td>28 Juni 2022</td>
+									<td>Melapor</td>
+									<td>Siti R.</td>
 									<td>Ahmad S.</td>
-									<td>Lorem Ipsum is simply ...</td>
+									<td>Kepala Bidang</td>
+									<td>Inspektorat</td>
+									<td>28 Maret 2022</td>
 									<td>Lorem Ipsum is simply ...</td>
 									<td class="p-3" style="width: 20%">
 										<div
@@ -189,9 +206,14 @@
 								<tr>
 									<td>002</td>
 									<td>28 Juni 2022</td>
+									<td>26 Juni 2022</td>
+									<td>Melapor</td>
+									<td>Achmad Syarif</td>
 									<td>Thoriq Harizul</td>
+									<td>Kepala Dinas</td>
+									<td>Inspektorat</td>
+									<td>30 Maret 2022</td>
 									<td>Lorem Ipsum is simply ...</td>
-                                    <td>Lorem Ipsum is simply ...</td>
 									<td class="p-3" style="width: 20%">
 										<div
 											class="d-flex justify-content-center align-items-center gap-3"
@@ -232,8 +254,13 @@
 								<tr>
 									<td>003</td>
 									<td>18 Juni 2022</td>
+									<td>16 Juni 2022</td>
+									<td>Melapor</td>
+									<td>Helmi Zulfan F.</td>
 									<td>Ahmad Fauzi F.</td>
-									<td>Lorem Ipsum is simply ...</td>
+									<td>Kepala Bidang</td>
+									<td>Sekretariat DPRD</td>
+									<td>1 April 2022</td>
 									<td>Lorem Ipsum is simply ...</td>
 									<td class="p-3" style="width: 20%">
 										<div
