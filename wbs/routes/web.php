@@ -84,6 +84,10 @@ Route::get('/penelahaan', function () {
     return view('admin.penelahaan');    
     
 });
+Route::get('/pelimpahan', function () {
+    return view('admin.pelimpahan');    
+    
+});
 
 
 // Route::prefix('user.dashboard')->group(function () {
