@@ -92,6 +92,10 @@ Route::get('/auditinvestigasi', function () {
     return view('admin.auditinvestigasi');    
     
 });
+Route::get('/detailaudit', function () {
+    return view('admin.detailaudit');    
+    
+});
 
 
 // Route::prefix('user.dashboard')->group(function () {
