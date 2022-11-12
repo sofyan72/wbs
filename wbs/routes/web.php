@@ -88,6 +88,10 @@ Route::get('/pelimpahan', function () {
     return view('admin.pelimpahan');    
     
 });
+Route::get('/auditinvestigasi', function () {
+    return view('admin.auditinvestigasi');    
+    
+});
 
 
 // Route::prefix('user.dashboard')->group(function () {
