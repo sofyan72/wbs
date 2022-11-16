@@ -447,7 +447,7 @@ Lorem Ipsum is simply dummy  text of the printing and typesetting industry. Lore
                                     class="d-flex justify-content-center gap-2 flex-column mx-auto"
                                     style="max-width: 200px"
                                 >
-                                    <button
+                                    <a
                                         class="btn btn-light bg-success rounded-2 text-dark border-0 py-2 px-5 fw-semibold d-flex gap-3 justify-content-center"
                                         role="button"
                                         type="submit"
@@ -458,7 +458,7 @@ Lorem Ipsum is simply dummy  text of the printing and typesetting industry. Lore
                                             alt="checked.svg"
                                             class="icon"
                                         />
-                                    </button>
+									</a>
                                     <a
                                         class="btn btn-light bg-danger rounded-2 text-dark border-0 py-2 px-5 fw-semibold d-flex gap-2 justify-content-center"
                                         role="button"
