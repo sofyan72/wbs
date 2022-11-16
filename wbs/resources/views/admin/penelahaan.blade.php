@@ -105,7 +105,7 @@
 							<li class="nav-item">
 								<a
 									class="nav-link fw-bold"
-									href="audit-investigasi.html"
+									href="auditinvestigasi"
 									>Audit Investigasi</a
 								>
 							</li>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
+  <head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -35,7 +35,7 @@
 						>
 							<div class="bg-gradient-hexagon"></div>
 							<div class="text-center">
-								<a href="beranda.html" class="brand-wrap">
+								<a href="admin" class="brand-wrap">
 									<img
 										class="mw-100 logo"
 										src="assets/img/logo.svg"
@@ -67,7 +67,7 @@
 										<input
 											id="id"
 											type="text"
-											class="form-control bg-white ps-0 px-4 py-3 border-start-0 shadow-none border"
+											class="form-control bg-red ps-0 px-4 py-3 border-start-0 shadow-none border"
 											name="id"
 											placeholder="Masukkan ID"
 											required
@@ -101,7 +101,7 @@
 									</button> -->
 										<a
 											type="button"
-											href="beranda.html"
+											href="pengaduan"
 											class="btn btn-primary btn-block bg-gradient-1 border-0 w-100 py-2 fs-5"
 										>
 											Login

@@ -18,7 +18,7 @@
 		<div class="bg-blue-light">
 			<nav class="navbar navbar-expand-lg py-4">
 				<div class="container">
-					<a class="navbar-brand" href="#!">
+					<a class="navbar-brand" href="pengaduan">
 						<img
 							class="mw-100"
 							src="/assets/img/logo.png"
@@ -46,13 +46,13 @@
 							<a
 								class="nav-link me-3 active"
 								aria-current="page"
-								href="index.html"
+								href="pengaduan"
 								>Beranda</a
 							>
-							<a class="nav-link me-3" href="informasi.html"
+							<a class="nav-link me-3" href="informasi"
 								>Informasi</a
 							>
-							<a class="nav-link me-3" href="data-laporan.html"
+							<a class="nav-link me-3" href="datalaporan"
 								>Data Laporan</a
 							>
 							<a class="nav-link me-3" href="dashboard.html"
@@ -95,7 +95,7 @@
 								>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link fw-bold" href="tercatat.html"
+								<a class="nav-link fw-bold" href="tercatat"
 									>Tercatat</a
 								>
 							</li>
@@ -351,7 +351,7 @@
 							>
 								<a
 									class="btn btn-light bg-success rounded-2 text-white border-0 py-2 px-5 fw-semibold"
-									href="index.html"
+									href="admin"
 									role="button"
 									>Ya</a
 								>

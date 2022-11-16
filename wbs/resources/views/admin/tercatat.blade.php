@@ -98,14 +98,14 @@
 								>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link fw-bold" href="penelahaan.html"
+								<a class="nav-link fw-bold" href="penelahaan"
 									>Penelahaan</a
 								>
 							</li>
 							<li class="nav-item">
 								<a
 									class="nav-link fw-bold"
-									href="audit-investigasi.html"
+									href="auditinvestigasi"
 									>Audit Investigasi</a
 								>
 							</li>

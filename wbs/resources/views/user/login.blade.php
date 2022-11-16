@@ -22,7 +22,7 @@
 	<body>
 		<nav class="navbar navbar-expand-lg py-4">
 			<div class="container">
-				<a class="navbar-brand" href="#!">
+				<a class="navbar-brand" href="home">
 					<img
 						class="mw-100"
 						src="/assets/img/logo-svg.svg"

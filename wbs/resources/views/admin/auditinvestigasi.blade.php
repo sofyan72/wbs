@@ -112,7 +112,7 @@
 							<li class="nav-item">
 								<a
 									class="nav-link fw-bold"
-									href="pelimpahan.html"
+									href="pelimpahan"
 									>Pelimpahan</a
 								>
 							</li>
