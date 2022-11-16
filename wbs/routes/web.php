@@ -72,6 +72,16 @@ Route::get('/admin', function () {
     
 });
 
+Route::get('/datalaporan', function () {
+    return view('admin.datalaporan');    
+    
+});
+
+Route::get('/informasi', function () {
+    return view('admin.informasi');    
+    
+});
+
 Route::get('/pengaduan', function () {
     return view('admin.pengaduan');    
     
