@@ -4,7 +4,7 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-		<title>Document</title>
+		<title>Pengaduan</title>
 		<link href="assets/css/admin.css" rel="stylesheet" />
 		<!-- Fonts -->
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -55,7 +55,7 @@
 							<a class="nav-link me-3" href="datalaporan"
 								>Data Laporan</a
 							>
-							<a class="nav-link me-3" href="dashboard.html"
+							<a class="nav-link me-3" href="#!"
 								>Dashboard</a
 							>
 							<a
@@ -90,7 +90,7 @@
 								<a
 									class="nav-link active fw-bold"
 									aria-current="page"
-									href="pengaduan.html"
+									href="pengaduan"
 									>Pengaduan</a
 								>
 							</li>
@@ -100,21 +100,21 @@
 								>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link fw-bold" href="#!"
+								<a class="nav-link fw-bold" href="penelahaan"
 									>Penelahaan</a
 								>
 							</li>
 							<li class="nav-item">
 								<a
 									class="nav-link fw-bold"
-									href="audit-investigasi.html"
+									href="auditinvestigasi"
 									>Audit Investigasi</a
 								>
 							</li>
 							<li class="nav-item">
 								<a
 									class="nav-link fw-bold"
-									href="pelimpahan.html"
+									href="pelimpahan"
 									>Pelimpahan</a
 								>
 							</li>
@@ -172,7 +172,7 @@
 											>
 												<a
 													class="btn border-3 border-dark d-flex shadow"
-													href="view-pengaduan.html"
+													href="detailpengaduan"
 													role="button"
 													><img
 														src="assets/img/icons/edit.svg"
@@ -190,7 +190,7 @@
 													/>Hapus</a
 												>
 											</div>
-											<a href="view-pengaduan.html">
+											<a href="detailpengaduan">
 												<img
 													src="assets/img/icons/arrow-circle-right.svg"
 													alt="arrow-circle-right.svg"
@@ -218,7 +218,7 @@
 											>
 												<a
 													class="btn border-3 border-dark d-flex shadow"
-													href="view-pengaduan.html"
+													href="detailpengaduan"
 													role="button"
 													><img
 														src="assets/img/icons/edit.svg"
@@ -236,7 +236,7 @@
 													/>Hapus</a
 												>
 											</div>
-											<a href="view-pengaduan.html">
+											<a href="detailpengaduan">
 												<img
 													src="assets/img/icons/arrow-circle-right.svg"
 													alt="arrow-circle-right.svg"
@@ -264,7 +264,7 @@
 											>
 												<a
 													class="btn border-3 border-dark d-flex shadow"
-													href="view-pengaduan.html"
+													href="detailpengaduanl"
 													role="button"
 													><img
 														src="assets/img/icons/edit.svg"
@@ -282,7 +282,7 @@
 													/>Hapus</a
 												>
 											</div>
-											<a href="view-pengaduan.html">
+											<a href="detailpengaduan">
 												<img
 													src="assets/img/icons/arrow-circle-right.svg"
 													alt="arrow-circle-right.svg"

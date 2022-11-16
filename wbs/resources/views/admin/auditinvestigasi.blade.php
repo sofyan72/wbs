@@ -4,7 +4,7 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-		<title>Document</title>
+		<title>Audit Investigasi</title>
 		<link href="assets/css/admin.css" rel="stylesheet" />
 		<!-- Fonts -->
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -46,16 +46,16 @@
 							<a
 								class="nav-link me-3 active"
 								aria-current="page"
-								href="dashboard.html"
+								href="pengaduan"
 								>Beranda</a
 							>
-							<a class="nav-link me-3" href="informasi.html"
+							<a class="nav-link me-3" href="Informasi"
 								>Informasi</a
 							>
-							<a class="nav-link me-3" href="data-laporan.html"
+							<a class="nav-link me-3" href="datalaporan"
 								>Data Laporan</a
 							>
-							<a class="nav-link me-3" href="dashboard.html"
+							<a class="nav-link me-3" href="#!"
 								>Dashboard</a
 							>
 							<a
@@ -90,22 +90,22 @@
 								<a
 									class="nav-link fw-bold"
 									aria-current="page"
-									href="beranda.html"
+									href="pengaduan"
 									>Pengaduan</a
 								>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link fw-bold" href="#!"
+								<a class="nav-link fw-bold" href="tercatat"
 									>Tercatat</a
 								>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link fw-bold" href="#!"
+								<a class="nav-link fw-bold" href="penelahaan"
 									>Penelahaan</a
 								>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link fw-bold active" href="#!"
+								<a class="nav-link fw-bold active" href="auditinvestigasi"
 									>Audit Investigasi</a
 								>
 							</li>
@@ -173,7 +173,7 @@
 											>
 												<a
 													class="btn border-3 border-dark d-flex shadow"
-													href="index.html"
+													href="detailaudit"
 													role="button"
 													><img
 														src="assets/img/icons/edit.svg"
@@ -229,7 +229,7 @@
 											>
 												<a
 													class="btn border-3 border-dark d-flex shadow"
-													href="index.html"
+													href="pengaduan"
 													role="button"
 													><img
 														src="assets/img/icons/edit.svg"
@@ -285,7 +285,7 @@
 											>
 												<a
 													class="btn border-3 border-dark d-flex shadow"
-													href="index.html"
+													href="detailaudit"
 													role="button"
 													><img
 														src="assets/img/icons/edit.svg"
@@ -370,7 +370,7 @@
 							>
 								<a
 									class="btn btn-light bg-success rounded-2 text-white border-0 py-2 px-5 fw-semibold"
-									href="index.html"
+									href="admin"
 									role="button"
 									>Ya</a
 								>
