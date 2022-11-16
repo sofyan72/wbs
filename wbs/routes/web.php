@@ -86,12 +86,24 @@ Route::get('/pengaduan', function () {
     return view('admin.pengaduan');    
     
 });
+Route::get('/detailpengaduan', function () {
+    return view('admin.detailpengaduan');    
+    
+});
 Route::get('/tercatat', function () {
     return view('admin.tercatat');    
     
 });
+Route::get('/detailtercatat', function () {
+    return view('admin.detailtercatat');    
+    
+});
 Route::get('/penelahaan', function () {
     return view('admin.penelahaan');    
+    
+});
+Route::get('/detailpenelahaan', function () {
+    return view('admin.detailpenelahaan');    
     
 });
 Route::get('/pelimpahan', function () {
