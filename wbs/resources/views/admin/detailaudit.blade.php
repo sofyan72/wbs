@@ -4,7 +4,7 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-		<title>Document</title>
+		<title>Detail Audit</title>
 		<link href="assets/css/admin.css" rel="stylesheet" />
 		<!-- Fonts -->
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -46,16 +46,16 @@
 							<a
 								class="nav-link me-3 active"
 								aria-current="page"
-								href="beranda.html"
+								href="pengaduan"
 								>Beranda</a
 							>
-							<a class="nav-link me-3" href="informasi.html"
+							<a class="nav-link me-3" href="informasi"
 								>Informasi</a
 							>
-							<a class="nav-link me-3" href="data-laporan.html"
+							<a class="nav-link me-3" href="datalaporan"
 								>Data Laporan</a
 							>
-							<a class="nav-link me-3" href="dashboard.html"
+							<a class="nav-link me-3" href="dashboard"
 								>Dashboard</a
 							>
 							<a
@@ -451,6 +451,7 @@ Lorem Ipsum is simply dummy  text of the printing and typesetting industry. Lore
                                         class="btn btn-light bg-success rounded-2 text-dark border-0 py-2 px-5 fw-semibold d-flex gap-3 justify-content-center"
                                         role="button"
                                         type="submit"
+										href="pelimpahan"
                                     >
                                         Simpan<img
                                             src="assets/img/icons/checked.svg"
@@ -526,7 +527,7 @@ Lorem Ipsum is simply dummy  text of the printing and typesetting industry. Lore
 							>
 								<a
 									class="btn btn-light bg-success rounded-2 text-white border-0 py-2 px-5 fw-semibold"
-									href="index.html"
+									href="admin"
 									role="button"
 									>Ya</a
 								>
