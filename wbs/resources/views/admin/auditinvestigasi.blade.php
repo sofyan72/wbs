@@ -191,11 +191,13 @@
 													/>Hapus</a
 												>
 											</div>
-											<img
-												src="assets/img/icons/arrow-circle-right.svg"
-												alt="arrow-circle-right.svg"
-												class="icon"
-											/>
+											<a href="detailaudit">
+												<img
+													src="assets/img/icons/arrow-circle-right.svg"
+													alt="arrow-circle-right.svg"
+													class="icon"
+												/>
+											</a>
 										</div>
 									</td>
 								</tr>
@@ -247,11 +249,13 @@
 													/>Hapus</a
 												>
 											</div>
-											<img
-												src="assets/img/icons/arrow-circle-right.svg"
-												alt="arrow-circle-right.svg"
-												class="icon"
-											/>
+											<a href="detailaudit">
+												<img
+													src="assets/img/icons/arrow-circle-right.svg"
+													alt="arrow-circle-right.svg"
+													class="icon"
+												/>
+											</a>
 										</div>
 									</td>
 								</tr>
@@ -303,11 +307,13 @@
 													/>Hapus</a
 												>
 											</div>
-											<img
-												src="assets/img/icons/arrow-circle-right.svg"
-												alt="arrow-circle-right.svg"
-												class="icon"
-											/>
+											<a href="detailaudit">
+												<img
+													src="assets/img/icons/arrow-circle-right.svg"
+													alt="arrow-circle-right.svg"
+													class="icon"
+												/>
+											</a>
 										</div>
 									</td>
 								</tr>

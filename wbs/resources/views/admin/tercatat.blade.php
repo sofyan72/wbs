@@ -175,7 +175,7 @@
 											>
 												<a
 													class="btn border-3 border-dark d-flex shadow"
-													href="detailpengaduan"
+													href="detailtercatat"
 													role="button"
 													><img
 														src="assets/img/icons/edit.svg"
@@ -193,7 +193,7 @@
 													/>Hapus</a
 												>
 											</div>
-											<a href="detailpengaduan">
+											<a href="detailtercatat">
 												<img
 													src="assets/img/icons/arrow-circle-right.svg"
 													alt="arrow-circle-right.svg"
@@ -223,7 +223,7 @@
 											>
 												<a
 													class="btn border-3 border-dark d-flex shadow"
-													href="detailpengaduan"
+													href="detailtercatat"
 													role="button"
 													><img
 														src="assets/img/icons/edit.svg"
@@ -241,7 +241,7 @@
 													/>Hapus</a
 												>
 											</div>
-											<a href="detailpengaduan">
+											<a href="detailtercatat">
 												<img
 													src="assets/img/icons/arrow-circle-right.svg"
 													alt="arrow-circle-right.svg"
@@ -271,7 +271,7 @@
 											>
 												<a
 													class="btn border-3 border-dark d-flex shadow"
-													href="detailpengaduan"
+													href="detailtercatat"
 													role="button"
 													><img
 														src="assets/img/icons/edit.svg"
@@ -289,7 +289,7 @@
 													/>Hapus</a
 												>
 											</div>
-											<a href="detailpengaduan">
+											<a href="detailtercatat">
 												<img
 													src="assets/img/icons/arrow-circle-right.svg"
 													alt="arrow-circle-right.svg"
