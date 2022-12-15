@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateAdminTable extends Migration
+return new class extends Migration
 {
     /**
      * Run the migrations.
@@ -13,6 +13,8 @@ class CreateAdminTable extends Migration
      */
     public function up()
     {
+        $primaryKey = 'nip';
+
         Schema::create('admin', function (Blueprint $table) {
             $table->id();
             $table->string('nip');

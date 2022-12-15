@@ -1,4 +1,4 @@
-    <?php
+<?php
 
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
@@ -13,21 +13,16 @@ return new class extends Migration
      */
     public function up()
     {
-
-        $primaryKey = 'nik';
-
-        Schema::create('user', function (Blueprint $table) {
+        Schema::create('user_pegawai', function (Blueprint $table) {
             $table->id('user_id');
             $table->string('username')->unique();
             $table->string('password');
             $table->string('nama');
-            $table->string('nik')->unique();
-            $table->string('email');
+            $table->string('nip')->unique();
+            $table->string('perangkat_daerah');
             $table->string('telp');
             $table->string('alamat');
-            $table->string('asal');
-            $table->string('ktp');
-            
+            $table->string('spmt_sk');
             $table->timestamps();
         });
     }
@@ -39,6 +34,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('user');
+        Schema::dropIfExists('user_pegawai');
     }
 };
